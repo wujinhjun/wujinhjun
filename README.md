@@ -1,6 +1,7 @@
 # Hi there 👋
 
-## Hello! I'm wujinhjun and I want to be a web developer or designer
+## Hello! I'm wujinhjun
+## I want to be a web developer or designer
 
 - I'm currently learning basic computer knowledge for better program.
 <!--
