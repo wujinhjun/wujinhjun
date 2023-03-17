@@ -4,7 +4,7 @@
 
 ## I want to be a web developer or designer
 
-- 🔭I’m looking for opportunities in joining front-end development.
+- 🔭 I’m looking for opportunities in joining front-end development.
 - 📫 How to reach me: wujinhjun@outlook.com
 - 🌱 This is [my website](https://wujinhjun.github.io/)
 <!--
