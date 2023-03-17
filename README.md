@@ -1,9 +1,12 @@
 # Hi there 👋
 
 ## Hello! I'm wujinhjun
+
 ## I want to be a web developer or designer
 
-- I'm currently learning basic computer knowledge for better program.
+- 🔭I’m looking for opportunities in joining front-end development.
+- 📫 How to reach me: wujinhjun@outlook.com
+- 🌱 This is [my website](https://wujinhjun.github.io/)
 <!--
 **wujinhjun/wujinhjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
