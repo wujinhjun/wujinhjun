@@ -8,6 +8,7 @@ I am currently enrolled in the Industrial Design major at the Design School of S
 
 - From June 2023 to September 2023, I worked as a front-end intern at [YueWen Group](https://www.yuewen.com/), participating in projects.  
 - In the past, I have studied courses such as Modern Front-end Development, Data Structures, Software Engineering, Computer Networks, and others.  
+- Additionally, I am a poet and have written numerous metrical verse.  
 - 📫 How to reach me: <wujinhjun@outlook.com>
 - 🌱 This is [my website](https://wujinhjun.github.io/)
 
