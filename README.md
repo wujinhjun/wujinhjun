@@ -4,8 +4,9 @@
 
 ## I want to be a web developer or designer
 
-- 🔭 I’m looking for opportunities in joining front-end development.
-- 📫 How to reach me: wujinhjun@outlook.com
+- From June 2023 to September 2023, I worked as a front-end intern at [YueWen Group](https://www.yuewen.com/), participating in projects.  
+
+- 📫 How to reach me: <wujinhjun@outlook.com>
 - 🌱 This is [my website](https://wujinhjun.github.io/)
 <!--
 **wujinhjun/wujinhjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
