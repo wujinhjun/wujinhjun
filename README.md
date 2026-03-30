@@ -1,16 +1,21 @@
 # Hi there 👋
 
+## Bilingual README
+
+- 中文版：[`README-zh.md`](./README-zh.md)
+
 ## Hello! I'm wujinhjun
 
-## I want to be a web developer or designer
+I’m currently working at ByteDance on the Feishu Documents team, focusing on front-end infrastructure for large-scale collaborative systems. Previously, I spent two years at DJI, where I owned and delivered several business-critical applications across web and hybrid platforms.
 
-I am currently enrolled in the Industrial Design major at the Design School of Shanghai Jiao Tong University. My plan is to become a front-end developer.  
+My main interest lies in building complex systems that balance performance, scalability, and user experience. Recently, I’ve been exploring LLM-driven architectures, especially for real-time interactive applications.
 
-- From June 2023 to September 2023, I worked as a front-end intern at [YueWen Group](https://www.yuewen.com/), participating in projects.  
-- In the past, I have studied courses such as Modern Front-end Development, Data Structures, Software Engineering, Computer Networks, and others.  
-- Additionally, I am a poet and have written numerous metrical verse.  
-- 📫 How to reach me: <wujinhjun@outlook.com>
-- 🌱 This is [my website](https://wujinhjun.github.io/)
+Outside of engineering, I’m also a classical Chinese poet. I explore the intersection of language and technology through projects like AST-based metrical analysis and LLM-assisted creative tooling.
+
+### Contact
+
+- Email: <wujinhjun@outlook.com>
+- Website: [https://wujinhjun.github.io/](https://wujinhjun.github.io/)
 
 <!--
 **wujinhjun/wujinhjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
