@@ -15,7 +15,7 @@ Outside of engineering, I’m also a classical Chinese poet. I explore the inter
 ### Contact
 
 - Email: <wujinhjun@outlook.com>
-- Website: [https://wujinhjun.github.io/](https://wujinhjun.github.io/)
+- Website: [https://wujinhjun.world/](https://wujinhjun.world)
 
 <!--
 **wujinhjun/wujinhjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

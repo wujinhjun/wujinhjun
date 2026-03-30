@@ -15,4 +15,4 @@
 ## 联系方式
 
 - 邮箱：<wujinhjun@outlook.com>
-- 个人网站：[https://wujinhjun.github.io/](https://wujinhjun.github.io/)
+- 个人网站：[https://wujinhjun.world](https://wujinhjun.world)
